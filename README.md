@@ -1,6 +1,6 @@
 # Code for ACM Multimedia 2023 paper "Enhancing Fake News Detection in Social Media via Label Propagation on Cross-modal Tweet Graph"
 
-[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581783.3612086) | [[Video Demo]](https://youtu.be/oFhEcaF7EBM) 
+[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581783.3612086) | [[Video Demo]](https://youtu.be/oFhEcaF7EBM)  | [[Dataset]](https://drive.google.com/file/d/1maf12DjW4ph-fDLR8KkjgyzTvfrQASfy/view?usp=drive_link)
 
 
 ## 1. Introduction
